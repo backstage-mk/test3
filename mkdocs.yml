@@ -1,0 +1,8 @@
+site_name: "GT-Docs"
+site_description: "aciklama"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

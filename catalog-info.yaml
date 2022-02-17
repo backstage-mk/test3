@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "GT-Docs"
+  description: "aciklama"
+  annotations:
+    github.com/project-slug: backstage-mk/test3
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "backstage"
